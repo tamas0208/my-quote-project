@@ -10,7 +10,7 @@ body {
   height: 100vh;
   background: url('assets/dawn.jpeg') no-repeat center;
   background-size: cover;
-  color: #333;
+  color: black;
 }
 .wrapper {
   padding-top: 200px;
@@ -20,10 +20,12 @@ body {
 }
 .quote {
   font-family: 'Anton', sans-serif;
-  font-size: 2.5rem;
+  font-size: 60px;
+  text-shadow: 3px 3px palegoldenrod;
 }
 .author {
   font-family: 'Anton', sans-serif;
-  font-size: 1.5rem;
+  font-size: 40px;
   font-style: italic;
+  text-shadow: 2px 2px goldenrod;
 }
