@@ -27,4 +27,5 @@ body {
   font-family: 'Anton', sans-serif;
   font-size: 40px;
   font-style: italic;
+  text-shadow: 1px -1px gold;
 }
